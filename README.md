@@ -1,2 +1,3 @@
-# iran-change-app
-Fast Change Telegram Currency Exchange Bot
+# IRAN CHANGE ARZ
+
+IRAN CHANGE ARZ - Currency Exchange Bot
